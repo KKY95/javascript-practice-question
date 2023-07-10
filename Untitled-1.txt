@@ -1,0 +1,21 @@
+count discrap in palindrome
+for|(i<a.length/2)
+if(first ele != last ele)
+c++;
+fisrt++
+last--
+if(c==1)
+return yes;
+else if(c==0)
+{
+    if(a.length%2==0)
+    {
+        return no
+    }
+    else{
+        return yes
+    }
+}
+else return no;
+
+
